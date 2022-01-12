@@ -1,5 +1,9 @@
 # Introduce-myself
 
+## University
+- Changwon National University
+
+
 ## Favorite Food
 1. Shrimp
 2. steak
