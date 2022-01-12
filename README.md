@@ -3,11 +3,6 @@
 ## University
 - Changwon National University
 
-## Major
-- 환경공학과
-- 스마트 제조 ICT
-
-
 
 ## Favorite Food
 1. Shrimp
