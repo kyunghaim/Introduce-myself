@@ -12,3 +12,9 @@
 3. 출발
 
 
+## Favorite color
+1. Blue
+2. Green
+3. Orange
+
+
