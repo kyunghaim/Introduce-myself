@@ -3,6 +3,10 @@
 ## University
 - Changwon National University
 
+## Major
+- 환경공학과
+- 스마트 제조 ICT
+
 
 ## Favorite Food
 1. Shrimp
@@ -11,9 +15,9 @@
 
 
 ## Favorite song
-1. 혜성
-2. 시작
-3. 출발
+1. 혜성 - 윤하
+2. 시작 - 가호
+3. 출발 - 김동률
 
 
 ## Favorite color
